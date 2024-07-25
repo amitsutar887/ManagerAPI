@@ -1,0 +1,5 @@
+C:\Users\AMSUTAR\Documents\ManagerApp\ManagerAPI\obj\Debug\netcoreapp3.1\ManagerAPI.csprojAssemblyReference.cache
+C:\Users\AMSUTAR\Documents\ManagerApp\ManagerAPI\obj\Debug\netcoreapp3.1\ManagerAPI.AssemblyInfoInputs.cache
+C:\Users\AMSUTAR\Documents\ManagerApp\ManagerAPI\obj\Debug\netcoreapp3.1\ManagerAPI.AssemblyInfo.cs
+C:\Users\AMSUTAR\Documents\ManagerApp\ManagerAPI\obj\Debug\netcoreapp3.1\ManagerAPI.csproj.CoreCompileInputs.cache
+C:\Users\AMSUTAR\Documents\ManagerApp\ManagerAPI\obj\Debug\netcoreapp3.1\ManagerAPI.MvcApplicationPartsAssemblyInfo.cache
